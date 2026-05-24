@@ -1,4 +1,5 @@
 To activate this cheat code, enter battle records once. Then finish one battle (no fleeing) to enable BG2 on the field.<br>
+Injects 0x130 bytes at 0x020F9360 (USA)<br>
 <br>
 E20F9360 00000130<br>
 E92D5FFF E59F0100<br>
