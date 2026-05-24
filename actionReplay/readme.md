@@ -1,5 +1,7 @@
-To activate this cheat code, enter battle records once. Then finish one battle (no fleeing) to enable BG2 on the field.<br>
-Injects 0x130 bytes at 0x020F9360 (USA)<br>
+- This cheat code displays the 32bit AT rng seed in the top left corner of the main/3D screen in Dragon Quest IX<br>
+- 0x130 bytes are injected at 0x020F9360 (USA)<br>
+- To activate this cheat code, enter battle records once<br>
+- Then finish one battle (no fleeing) to enable BG2 on the field<br>
 <br>
 E20F9360 00000130<br>
 E92D5FFF E59F0100<br>
