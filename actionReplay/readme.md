@@ -2,7 +2,6 @@
 - 0x130 bytes are injected at 0x020F9360 (USA) and a trampoline replaces 02188A90 in FUN_overlay_d_14__02188a8c<br>
 - To activate this cheat code, enter battle records once, then finish one battle (no fleeing) to enable BG2 on the field<br>
 - Special thanks to DaisukeDaisuke<br>
-<br>
 
 ```
 E20F9360 00000130
