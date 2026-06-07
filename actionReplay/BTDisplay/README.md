@@ -1,4 +1,4 @@
-##BT Display on Console (USA)
+## BT Display on Console (USA)
 ```
 E20F9360 00000380
 E92D5FFF E59F032C
